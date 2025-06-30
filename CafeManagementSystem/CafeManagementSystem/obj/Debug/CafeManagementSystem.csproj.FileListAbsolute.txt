@@ -1,0 +1,16 @@
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Dashboard.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Login.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AllUserControls.UC_Welcome.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AllUserControls.UC_AddItems.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.UC_PlaceOrder.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AllUserControls.UC_UpdateItems.resources
+C:\Users\Abu Zar Mishwani\source\repos\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AllUserControls.UC_RemoveItem.resources
